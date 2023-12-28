@@ -17,5 +17,5 @@ Take two 2D Array and three integer values in parameter.<br>
 If columns of first matrix equals to rows of second matrix then multiplication is possible.<br>
 Return 2D array of resultmatrix.
 <br>
-NOTE:
+<h4>NOTE:</h4>
 These functions are non-static and it is called by class CodeReUse object.
